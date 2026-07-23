@@ -1,0 +1,12 @@
+sentence-transformers
+torch
+torchvision
+Pillow
+
+#....install all these packages by using (pip install -r requirements.txt)...#
+
+#..create these folders for storing data
+#..(found_data)
+#..(found_images)
+#..(lost_data)
+#..(lost_images)
